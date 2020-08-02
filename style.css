@@ -1,0 +1,48 @@
+form{
+    width: 300px;
+    background-color: black;
+}
+
+input[type=text]{
+    width: 100%;
+    height: 120px;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: right;
+    margin: 0 0 10px 0;
+}
+
+input[type=button] {
+    font-family: 'Nunito', sans-serif;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    margin: 10px;
+    background-color: #000000;
+    border: none;
+    font-size: 24px;
+    font-weight: 600;
+    color: #ffffff;
+
+}
+
+.operator{
+    color: #3fd5d5 !important;
+}
+
+.operator:hover{
+    color: #ffffff !important;
+}
+
+input[type=button]:hover{
+    cursor: pointer;
+    background-color: rgba(63, 213, 213, 0.7);
+
+}
+
+
+
+
+
