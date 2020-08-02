@@ -40,7 +40,10 @@ input[type=button] {
 input[type=button]:hover{
     cursor: pointer;
     background-color: rgba(63, 213, 213, 0.7);
+}
 
+input[type=button]:focus{
+    outline: 0;
 }
 
 
