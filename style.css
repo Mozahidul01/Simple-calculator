@@ -1,4 +1,5 @@
 form{
+    margin-top: 35px;
     width: 300px;
     background-color: black;
 }
@@ -16,8 +17,8 @@ input[type=text]{
 
 input[type=button] {
     font-family: 'Nunito', sans-serif;
-    width: 52px;
-    height: 52px;
+    width: 45px;
+    height: 45px;
     border-radius: 50%;
     margin: 10px;
     background-color: #000000;
